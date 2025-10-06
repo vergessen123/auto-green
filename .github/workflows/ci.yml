@@ -1,4 +1,4 @@
-name: cq1
+name: ci
 
 on:
   push:
